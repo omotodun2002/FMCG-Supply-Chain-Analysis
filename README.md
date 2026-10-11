@@ -1,4 +1,5 @@
 Core Objectives
+
  Build a robust data-driven demand planning framework to:
 . Support S&OP decision-making
 . Understand market dynamics by SKU, country, and channel
